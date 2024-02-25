@@ -1,4 +1,6 @@
 # House-Price-Prediction
+### Predicting Canada’s (Saskatchawan’s) Home Prices
+Using a Deep Learning Model
 This project aimed to develop a deep learning model to predict the benchmark
 prices of single-family homes in Canada. Utilizing a combination of the MLS®
 Home Price Index, Consumer Price Index, and interest rate data, the model
